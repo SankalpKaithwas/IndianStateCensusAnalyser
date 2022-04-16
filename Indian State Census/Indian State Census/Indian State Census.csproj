@@ -6,8 +6,4 @@
     <RootNamespace>Indian_State_Census</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="CSV Files\" />
-  </ItemGroup>
-
 </Project>

@@ -6,7 +6,7 @@ namespace Indian_State_Census
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("WELCOME TO INDIAN STATE CENSUS INFORMATION");
         }
     }
 }
